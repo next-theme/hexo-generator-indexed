@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-indexed",
-  "version": "0.0.3",
+  "version": "0.1.1",
   "description": "Index generator for Hexo.",
   "main": "index",
   "scripts": {
@@ -41,6 +41,7 @@
     "mocha": "^6.0.2"
   },
   "dependencies": {
-    "hexo-pagination": "0.1.0"
+    "hexo-pagination": "0.1.0",
+    "lodash": "^4.17.4"
   }
 }

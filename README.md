@@ -37,7 +37,7 @@ index_generator:
 
 ### 置顶文章 Pinned article
 
-在文章的[Front-matter](https://hexo.io/docs/front-matter)中增加一个`sticky`参数用来置顶，数字越大，则越靠前。  
+在文章的[Front-matter](https://hexo.io/docs/front-matter)中增加一个`sticky`参数用来置顶，其值应为大于0的整数，表示置顶的优先级（未指定则默认为0）。数字越大，文章越靠前。  
 Add a `sticky` parameter to the the post's [Front-matter](https://hexo.io/docs/front-matter) to make the post pinned at the top of home page.
 
 ```markdown
