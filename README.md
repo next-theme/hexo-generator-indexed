@@ -35,9 +35,10 @@ index_generator:
 
 ## Feature & Usage
 
-### 增加置顶功能
+### 置顶文章 Pinned article
 
-在文章的Front Matter（即开头设置）中增加一个`sticky`参数用来置顶，数字越大越高
+在文章的[Front-matter](https://hexo.io/docs/front-matter)中增加一个`sticky`参数用来置顶，数字越大，则越靠前。  
+Add a `sticky` parameter to the the post's [Front-matter](https://hexo.io/docs/front-matter) to make the post pinned at the top of home page.
 
 ```markdown
 ---
@@ -46,11 +47,12 @@ sticky: 100
 ---
 ```
 
-采用`sticky`关键词是因为这个在[NexT主题](https://github.com/theme-next/hexo-theme-next)中已经定义了置顶样式，因此可以直接拿来使用
+采用`sticky`关键词是因为这个在[NexT主题](https://github.com/theme-next/hexo-theme-next)中已经定义了置顶样式，因此可以直接拿来使用。
 
-### 增加隐藏功能
+### 隐藏文章 Hide article
 
-在文章的Front Matter中增加一个`hide`参数用来隐藏
+在文章的Front-matter中增加一个`hide`参数用来隐藏。  
+Add a `hide` parameter to the the post's Front-matter to hide the post from home page.
 
 ```markdown
 ---
@@ -59,9 +61,10 @@ hide: true
 ---
 ```
 
-### 隐藏特定分类中的文章
+### 隐藏特定分类中的文章 Hide articles in specified categories
 
-在Hexo的`_config.yml`中可以设置隐藏某个分类下的文章，例如
+在Hexo的`_config.yml`中可以通过`hide_categories`选项设置隐藏某个分类下的文章，例如：  
+You can hide articles in specified categories by setting `hide_categories` in hexo `_config.yml`, e.g.
 
 ```yml
 hide_categories:
