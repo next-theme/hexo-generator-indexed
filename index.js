@@ -2,7 +2,7 @@
 
 'use strict';
 
-const merge = require('lodash/merge');
+const { merge } = require('lodash');
 
 hexo.config.index_generator = merge({
   per_page: typeof hexo.config.per_page === 'undefined' ? 10 : hexo.config.per_page,
