@@ -1,9 +1,9 @@
 # hexo-generator-indexed
 
-[![Npm Version](https://img.shields.io/npm/v/hexo-generator-indexed.svg)](https://npmjs.org/package/hexo-generator-indexed)
-[![Npm Downloads Month](https://img.shields.io/npm/dm/hexo-generator-indexed.svg)](https://npmjs.org/package/hexo-generator-indexed)
-[![Npm Downloads Total](https://img.shields.io/npm/dt/hexo-generator-indexed.svg)](https://npmjs.org/package/hexo-generator-indexed)
-[![License](https://img.shields.io/npm/l/hexo-generator-indexed.svg)](https://npmjs.org/package/hexo-generator-indexed)
+[![Npm Version](https://img.shields.io/npm/v/hexo-generator-indexed?style=flat-square)](https://npmjs.org/package/hexo-generator-indexed)
+[![Npm Downloads Month](https://img.shields.io/npm/dm/hexo-generator-indexed?style=flat-square)](https://npmjs.org/package/hexo-generator-indexed)
+[![Npm Downloads Total](https://img.shields.io/npm/dt/hexo-generator-indexed?style=flat-square)](https://npmjs.org/package/hexo-generator-indexed)
+[![License](https://img.shields.io/npm/l/hexo-generator-indexed?style=flat-square)](https://npmjs.org/package/hexo-generator-indexed)
 
 Index generator for [Hexo].
 
