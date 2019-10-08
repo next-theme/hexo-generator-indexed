@@ -1,15 +1,17 @@
 # hexo-generator-indexed
 
-[![Npm Version](https://img.shields.io/npm/v/hexo-generator-indexed?style=flat-square)](https://npmjs.org/package/hexo-generator-indexed)
-[![Npm Downloads Month](https://img.shields.io/npm/dm/hexo-generator-indexed?style=flat-square)](https://npmjs.org/package/hexo-generator-indexed)
-[![Npm Downloads Total](https://img.shields.io/npm/dt/hexo-generator-indexed?style=flat-square)](https://npmjs.org/package/hexo-generator-indexed)
-[![License](https://img.shields.io/npm/l/hexo-generator-indexed?style=flat-square)](https://npmjs.org/package/hexo-generator-indexed)
+[![npm-image]][npm-url]
+[![lic-image]](LICENSE)
 
 Index generator for [Hexo].
 
 It generates an archive of posts on your homepage, according to the `index` or `archive` layout of your theme.
 
 ## Installation
+
+![size-image]
+[![dm-image]][npm-url]
+[![dt-image]][npm-url]
 
 ``` bash
 $ npm install hexo-generator-indexed --save
@@ -85,3 +87,12 @@ hide_categories:
 MIT
 
 [Hexo]: http://hexo.io/
+
+[npm-image]: https://img.shields.io/npm/v/hexo-generator-indexed?style=flat-square
+[lic-image]: https://img.shields.io/npm/l/hexo-generator-indexed?style=flat-square
+
+[size-image]: https://img.shields.io/github/languages/code-size/stevenjoezhang/hexo-generator-indexed?style=flat-square
+[dm-image]: https://img.shields.io/npm/dm/hexo-generator-indexed?style=flat-square
+[dt-image]: https://img.shields.io/npm/dt/hexo-generator-indexed?style=flat-square
+
+[npm-url]: https://www.npmjs.com/package/hexo-generator-indexed
