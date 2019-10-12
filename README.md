@@ -14,7 +14,7 @@ It generates an archive of posts on your homepage, according to the `index` or `
 [![dt-image]][npm-url]
 
 ``` bash
-$ npm install hexo-generator-indexed --save
+$ npm install hexo-generator-indexed
 ```
 
 ## Options
