@@ -30,10 +30,9 @@
     "home",
     "sticky"
   ],
-  "author": "Mimi <stevenjoezhang@gmail.com> (https://zhangshuqiao.org)",
+  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "maintainers": [
-    "rizon",
-    "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)"
+    "Mimi <stevenjoezhang@gmail.com> (https://zhangshuqiao.org)"
   ],
   "license": "MIT",
   "devDependencies": {
@@ -46,6 +45,6 @@
   },
   "dependencies": {
     "hexo-pagination": "1.0.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.15"
   }
 }
