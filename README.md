@@ -57,7 +57,7 @@ sticky: 100
 ---
 ```
 
-采用`sticky`关键词是因为这个在[NexT主题](https://github.com/theme-next/hexo-theme-next)中已经定义了置顶样式，因此可以直接拿来使用。
+采用`sticky`关键词是因为这个在[NexT主题](https://github.com/hexo-next/hexo-theme-next)中已经定义了置顶样式，因此可以直接拿来使用。
 
 ### 隐藏文章 Hide article
 

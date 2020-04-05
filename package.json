@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-indexed",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Index generator for Hexo.",
   "main": "index",
   "scripts": {
@@ -20,9 +20,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stevenjoezhang/hexo-generator-indexed.git"
+    "url": "https://github.com/hexo-next/hexo-generator-indexed.git"
   },
-  "homepage": "https://github.com/stevenjoezhang/hexo-generator-indexed",
+  "homepage": "https://github.com/hexo-next/hexo-generator-indexed",
   "keywords": [
     "hexo",
     "generator",
@@ -32,7 +32,7 @@
   ],
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "maintainers": [
-    "Mimi <stevenjoezhang@gmail.com> (https://zhangshuqiao.org)"
+    "Mimi <hexo-next@gmail.com> (https://zhangshuqiao.org)"
   ],
   "license": "MIT",
   "devDependencies": {
