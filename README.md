@@ -57,7 +57,7 @@ sticky: 100
 ---
 ```
 
-采用 `sticky` 关键词是因为这个在 [NexT 主题](https://github.com/hexo-next/hexo-theme-next)中已经定义了置顶样式，因此可以直接拿来使用。
+采用 `sticky` 关键词是因为这个在 [NexT 主题](https://github.com/next-theme/hexo-theme-next)中已经定义了置顶样式，因此可以直接拿来使用。
 
 ### 隐藏文章 Hide article
 
@@ -91,7 +91,7 @@ MIT
 [npm-image]: https://img.shields.io/npm/v/hexo-generator-indexed?style=flat-square
 [lic-image]: https://img.shields.io/npm/l/hexo-generator-indexed?style=flat-square
 
-[size-image]: https://img.shields.io/github/languages/code-size/hexo-next/hexo-generator-indexed?style=flat-square
+[size-image]: https://img.shields.io/github/languages/code-size/next-theme/hexo-generator-indexed?style=flat-square
 [dm-image]: https://img.shields.io/npm/dm/hexo-generator-indexed?style=flat-square
 [dt-image]: https://img.shields.io/npm/dt/hexo-generator-indexed?style=flat-square
 

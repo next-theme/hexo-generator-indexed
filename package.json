@@ -20,9 +20,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hexo-next/hexo-generator-indexed.git"
+    "url": "https://github.com/next-theme/hexo-generator-indexed.git"
   },
-  "homepage": "https://github.com/hexo-next/hexo-generator-indexed",
+  "homepage": "https://github.com/next-theme/hexo-generator-indexed",
   "keywords": [
     "hexo",
     "generator",
@@ -32,7 +32,7 @@
   ],
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "maintainers": [
-    "Mimi <hexo-next@gmail.com> (https://zhangshuqiao.org)"
+    "Mimi <next-theme@gmail.com> (https://zhangshuqiao.org)"
   ],
   "license": "MIT",
   "devDependencies": {
