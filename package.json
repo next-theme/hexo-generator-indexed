@@ -40,7 +40,7 @@
     "eslint": "7.6.0",
     "eslint-config-hexo": "4.1.0",
     "hexo": "5.0.2",
-    "mocha": "8.1.0",
+    "mocha": "8.2.1",
     "nyc": "15.1.0"
   },
   "dependencies": {
