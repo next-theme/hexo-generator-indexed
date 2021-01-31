@@ -18,10 +18,7 @@
   "engines": {
     "node": ">=10.9.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/next-theme/hexo-generator-indexed.git"
-  },
+  "repository": "next-theme/hexo-generator-indexed",
   "homepage": "https://github.com/next-theme/hexo-generator-indexed",
   "keywords": [
     "hexo",
