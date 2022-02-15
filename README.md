@@ -81,8 +81,8 @@ You can hide articles in specified categories by setting `hide_categories` in he
 
 ```yml
 hide_categories:
-  - categorie1
-  - categorie2
+  - category1
+  - category2
 ```
 
 ## License
