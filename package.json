@@ -35,7 +35,7 @@
     "eslint-config-hexo": "5.0.0",
     "hexo": "7.1.1",
     "mocha": "10.4.0",
-    "nyc": "15.1.0"
+    "nyc": "17.1.0"
   },
   "dependencies": {
     "hexo-pagination": "3.0.0",
